@@ -30,11 +30,11 @@ A SwiftUI product browser app, built as a technical assignment.
 
 ## Time Spent
 
-- **Total:** Approximately 14 hours  
-    - Initial architecture, setup, networking: 2 hours
+- **Total:** Approximately 16 hours  
+    - Initial architecture, setup, networking: 3 hours
     - UI implementation: 4 hours
     - State management, favorites, persistence: 3 hours
-    - Testing, code review, documentation, polish: 5 hours
+    - Testing, code review, documentation, polish: 6 hours
 
 ---
 
